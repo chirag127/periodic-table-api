@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "periodic-table": {
+      "id": "periodic-table",
+      "name": "Periodic Table",
+      "status": "scaffold",
+      "source": "IUPAC"
+    }
+  },
+  "searchableFields": []
+}
